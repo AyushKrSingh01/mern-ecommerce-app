@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "username": "dasd",
+      "email": "sda@sas",
+      "password": "dasda",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": 3,
+      "username": "",
+      "email": "",
+      "password": "",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": 4,
+      "username": "24ec3012",
+      "email": "aa@11",
+      "password": "1",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": 1,
+            "title": "Fjallraven Backpack",
+            "price": 1011,
+            "description": "Perfect for everyday use with laptop sleeve",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven Backpack",
+      "price": 1011,
+      "description": "Perfect for everyday use with laptop sleeve",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+    },
+    {
+      "id": 2,
+      "title": "sdwerer",
+      "price": 543,
+      "description": "435",
+      "category": "fds",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "title": "fsdfs",
+      "price": 534,
+      "description": "dfdsf",
+      "category": "dv",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+    },
+    {
+      "id": 4,
+      "title": "Smartphone",
+      "price": 599.99,
+      "description": "High-end smartphone with advanced features",
+      "category": "electronics",
+      "image": "https://example.com/images/smartphone.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Laptop",
+      "price": 999.99,
+      "description": "Powerful laptop for work and gaming",
+      "category": "electronics",
+      "image": "https://example.com/images/laptop.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Wireless Headphones",
+      "price": 149.99,
+      "description": "Noise-cancelling wireless headphones",
+      "category": "electronics",
+      "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Smartwatch",
+      "price": 199.99,
+      "description": "Fitness tracking smartwatch",
+      "category": "electronics",
+      "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+      "id": 8,
+      "title": "DSLR Camera",
+      "price": 499.99,
+      "description": "Professional camera",
+      "category": "electronics",
+      "image": "https://example.com/images/camera.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Smart TV",
+      "price": 799.99,
+      "description": "HD smart TV",
+      "category": "electronics",
+      "image": "https://example.com/images/tv.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Tablet",
+      "price": 299.99,
+      "description": "Portable tablet device",
+      "category": "electronics",
+      "image": "https://example.com/images/tablet.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Gaming Console",
+      "price": 399.99,
+      "description": "Next-gen gaming console",
+      "category": "electronics",
+      "image": "https://example.com/images/console.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Refrigerator",
+      "price": 599.99,
+      "description": "Energy-efficient refrigerator",
+      "category": "appliances",
+      "image": "https://example.com/images/refrigerator.jpg"
+    }
+  ],
+  "carts": []
+}
